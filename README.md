@@ -12,8 +12,11 @@ Manual invoice creation is time-consuming and prone to calculation errors. This 
 🛠️ Tools & Technologies
 
 Microsoft Excel
+
 VBA (Visual Basic for Applications)
+
 Excel Formulas
+
 PDF Export
 
 ✨ Features
